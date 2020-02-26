@@ -18,7 +18,7 @@ namespace ExampleProject
 
         public void Eat()
         {
-            Console.Write("This animal can eat.");
+            Console.Write("This animal can eat...");
         }
     }
 }
