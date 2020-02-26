@@ -7,9 +7,9 @@ namespace ExampleProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            int myNumber = 2;
-            int someNumber = 2;
-            int result = myNumber + someNumber;
+            int thisNumber = 2;
+            int thatNumber = 2;
+            int result = thisNumber + thatNumber;
             Console.WriteLine(result);
 
         }
