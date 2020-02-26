@@ -6,11 +6,13 @@ namespace ExampleProject
 {
     class Cat : Animal
     {
+
+        public void Meow()
+        {
+
+            Console.WriteLine("The cat goes Meow!");
+        }
     }
 
-    public void Meow()
-    {
 
-        Console.WriteLine("The cat goes Meow!");
-    }
 }
